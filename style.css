@@ -1,0 +1,14 @@
+#navi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#person{
+    border-radius: 100%;
+}
+#Netflix{
+    display: flex;
+}
+#cmimi1{
+    color: red;
+}
