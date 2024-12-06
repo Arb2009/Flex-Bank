@@ -8,7 +8,31 @@
 }
 #Netflix{
     display: flex;
+    align-items: center;
 }
 #cmimi1{
     color: red;
+     text-align: center;
+     width: 150px;
+}
+#cmimi2{
+    color: red;
+    text-align: center;
+    width: 150px;
+}
+#Spotify{
+    display: flex;
+    align-items: center;
+}
+#Nfamily{
+    display: flex;
+}
+#Netflixlogo{
+    height: 50px;
+    width: 50px;
+    
+}
+#Spotifylogo{
+    height: 50px;
+    width: 50px;
 }
