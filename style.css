@@ -15,6 +15,11 @@
      text-align: center;
      width: 150px;
 }
+#cmimi2{
+    color: green;
+    text-align: center;
+    width: 150px;
+}
 #Spotify{
     display: flex;
     align-items: center;
@@ -58,5 +63,17 @@
     width: 50px;
     border-radius: 100%;
 }
+#incomes{
+    display: flex;
+}
+#expenses{
+    display: flex;
+}
+#kryesor{
+    display: flex;
+}
+
+
+
      
 
